@@ -5,6 +5,7 @@ Python:
  - Pygame
  - Excel
  - Jsons
+ - PyQt5
 
 Java:
  - Basics
