@@ -12,3 +12,4 @@ Java:
 
 Javascript:
  - React Basics
+ - React Typescript
