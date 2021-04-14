@@ -1,15 +1,13 @@
 Hiya, this is a general overview of what i'm learning and doing with my programming:
 
-Python:
- - Tkinter
- - Pygame
- - Excel
- - Jsons
- - PyQt5
+Python 🐍:
+ - Tkinter 
+ - Pygame 
+ - Jsons 
+ - PyQt5 
+ - Flask ( Minimal )
 
-Java:
- - Basics
-
-Javascript:
+Javascript ☕:
  - React Basics
  - React Typescript
+ - React Native
