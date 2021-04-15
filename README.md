@@ -1,13 +1,11 @@
 Hiya, this is a general overview of what i'm learning and doing with my programming:
 
 Python 🐍:
- - Tkinter 
- - Pygame 
- - Jsons 
- - PyQt5 
- - Flask ( Minimal )
+ - GUI ( Tkinter, PyQt5 )
+ - Games ( Pygame )
+ - Databases ( SQLite 3 )
+ - Web Dev ( Flask )
 
 Javascript ☕:
- - React Basics
- - React Typescript
- - React Native
+ - React ( Native, Typescript )
+ - Firebase
